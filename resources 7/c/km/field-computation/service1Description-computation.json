@@ -1,0 +1,10 @@
+{
+  "$id": "c_service1Description-computation",
+  "$schema": "https://schema.yext.com/config/km/field-computation/v1",
+  "field": "c_service1Description",
+  "computationMethod": "customCompletion",
+  "systemControlled": false,
+  "inputs": {
+    "prompt": "Write a 1 paragraph description of  [[c_service1]] that  [[name]] offers. Use [[keywords]] as context. Do not use more than 150 words. Do not use quotes."
+  }
+}

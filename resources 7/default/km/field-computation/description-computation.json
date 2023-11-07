@@ -1,0 +1,15 @@
+{
+  "$id": "description-computation",
+  "$schema": "https://schema.yext.com/config/km/field-computation/v1",
+  "field": "description",
+  "computationMethod": "businessDescription",
+  "systemControlled": false,
+  "inputs": {
+    "addressCity": " [[address.city]]",
+    "addressRegion": " [[address.region]]",
+    "keywords": " [[keywords]]",
+    "maxLength": "150 words",
+    "name": " [[name]]",
+    "numParas": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "c_servicePhotos",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Service Photos",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "image",
+      "maxLength": 500,
+      "type": {
+        "imageType": {
+          "isSimpleImage": true,
+          "noAllowedAspectRatios": true,
+          "unconstrainedAspectRatioAllowed": true
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

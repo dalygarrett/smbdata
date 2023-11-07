@@ -1,0 +1,304 @@
+{
+  "$id": "scott",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "61 9th Ave",
+      "postalCode": "10011",
+      "region": "NY"
+    },
+    "addressHidden": false,
+    "c_industry": "Sports Memorabilia",
+    "c_servicePhotos": [
+      {
+        "height": 1667,
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6390a42abadcf963f53afcc2/f8c9ca28-60a3-4e47-ad42-dd42ad608ba2/J17A9813.jpeg",
+        "thumbnails": [
+          {
+            "height": 1667,
+            "url": "https://a.mktgcdn.com/p-sandbox/thgsXjuxibRHpCddev82lZFXjX7JX0IfKPCT9WJtJhQ/2500x1667.jpg",
+            "width": 2500
+          },
+          {
+            "height": 1267,
+            "url": "https://a.mktgcdn.com/p-sandbox/thgsXjuxibRHpCddev82lZFXjX7JX0IfKPCT9WJtJhQ/1900x1267.jpg",
+            "width": 1900
+          },
+          {
+            "height": 413,
+            "url": "https://a.mktgcdn.com/p-sandbox/thgsXjuxibRHpCddev82lZFXjX7JX0IfKPCT9WJtJhQ/619x413.jpg",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "https://a.mktgcdn.com/p-sandbox/thgsXjuxibRHpCddev82lZFXjX7JX0IfKPCT9WJtJhQ/600x400.jpg",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p-sandbox/thgsXjuxibRHpCddev82lZFXjX7JX0IfKPCT9WJtJhQ/196x131.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/thgsXjuxibRHpCddev82lZFXjX7JX0IfKPCT9WJtJhQ/2500x1667.jpg",
+        "width": 2500
+      },
+      {
+        "height": 1517,
+        "sourceUrl": "https://www.framingart.net/wp-content/uploads/2023/04/Retail-Room-Right-B-A-scaled.jpg",
+        "thumbnails": [
+          {
+            "height": 1517,
+            "url": "https://a.mktgcdn.com/p-sandbox/eyvkDdl6TmlQYlUMypof_DHpnPosGtkuRUlb1ZnzhQU/2560x1517.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1126,
+            "url": "https://a.mktgcdn.com/p-sandbox/eyvkDdl6TmlQYlUMypof_DHpnPosGtkuRUlb1ZnzhQU/1900x1126.jpg",
+            "width": 1900
+          },
+          {
+            "height": 367,
+            "url": "https://a.mktgcdn.com/p-sandbox/eyvkDdl6TmlQYlUMypof_DHpnPosGtkuRUlb1ZnzhQU/619x367.jpg",
+            "width": 619
+          },
+          {
+            "height": 356,
+            "url": "https://a.mktgcdn.com/p-sandbox/eyvkDdl6TmlQYlUMypof_DHpnPosGtkuRUlb1ZnzhQU/600x356.jpg",
+            "width": 600
+          },
+          {
+            "height": 116,
+            "url": "https://a.mktgcdn.com/p-sandbox/eyvkDdl6TmlQYlUMypof_DHpnPosGtkuRUlb1ZnzhQU/196x116.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/eyvkDdl6TmlQYlUMypof_DHpnPosGtkuRUlb1ZnzhQU/2560x1517.jpg",
+        "width": 2560
+      },
+      {
+        "height": 771,
+        "sourceUrl": "https://www.framingart.net/wp-content/uploads/2023/04/Retail-Room-RIght-F-A-1024x771.jpg",
+        "thumbnails": [
+          {
+            "height": 771,
+            "url": "https://a.mktgcdn.com/p-sandbox/xkSLJBcl9A-Tns8LSeKQgJLCYhoM8C-7C5p4TKWezQ0/1024x771.jpg",
+            "width": 1024
+          },
+          {
+            "height": 466,
+            "url": "https://a.mktgcdn.com/p-sandbox/xkSLJBcl9A-Tns8LSeKQgJLCYhoM8C-7C5p4TKWezQ0/619x466.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/xkSLJBcl9A-Tns8LSeKQgJLCYhoM8C-7C5p4TKWezQ0/598x450.jpg",
+            "width": 598
+          },
+          {
+            "height": 148,
+            "url": "https://a.mktgcdn.com/p-sandbox/xkSLJBcl9A-Tns8LSeKQgJLCYhoM8C-7C5p4TKWezQ0/196x148.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/xkSLJBcl9A-Tns8LSeKQgJLCYhoM8C-7C5p4TKWezQ0/1024x771.jpg",
+        "width": 1024
+      }
+    ],
+    "c_tagline": "Captivating Authentic Sports Memorabilia for Die-Hard Fans and Collectors",
+    "c_toggleAbout": true,
+    "categoryIds": [
+      "1752"
+    ],
+    "description": "Scott\u0027s Sports Memorabilia is a premier sports memorabilia store located in New York, NY. We specialize in offering a vast collection of collectible sports memorabilia, including rare and vintage items. Our authentic sports collectibles are sourced from trusted suppliers to ensure their genuine authenticity. Whether you are a die-hard fan or a serious collector, we have something for everyone to cherish and add to their beloved collections. At Scott\u0027s Sports Memorabilia, we take pride in providing exceptional customer service and assisting our customers in finding the perfect piece of sports history. Visit our store today to explore our extensive selection of authentic and sought-after sports memorabilia that will captivate any avid fan or collector.",
+    "emails": [
+      "scott@yext.com"
+    ],
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      }
+    },
+    "keywords": [
+      "Collectible sports memorabilia",
+      "Authentic sports collectibles",
+      "Sports memorabilia store",
+      "Rare sports memorabilia",
+      "Vintage sports memorabilia"
+    ],
+    "logo": {
+      "image": {
+        "height": 1200,
+        "sourceUrl": "https://beckett-www.s3.amazonaws.com/news/news-content/uploads/2014/06/PlayerSet.jpg",
+        "thumbnails": [
+          {
+            "height": 1200,
+            "url": "https://a.mktgcdn.com/p-sandbox/Zpr8JaF0MBg-1eEgwxzam5cIODzJJeKZztrWnZFl6P4/1200x1200.jpg",
+            "width": 1200
+          },
+          {
+            "height": 150,
+            "url": "https://a.mktgcdn.com/p-sandbox/Zpr8JaF0MBg-1eEgwxzam5cIODzJJeKZztrWnZFl6P4/150x150.jpg",
+            "width": 150
+          },
+          {
+            "height": 94,
+            "url": "https://a.mktgcdn.com/p-sandbox/Zpr8JaF0MBg-1eEgwxzam5cIODzJJeKZztrWnZFl6P4/94x94.jpg",
+            "width": 94
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/Zpr8JaF0MBg-1eEgwxzam5cIODzJJeKZztrWnZFl6P4/1200x1200.jpg",
+        "width": 1200
+      }
+    },
+    "mainPhone": "+12129943900",
+    "name": "Scott\u0027s Sports Memorabilia",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 844,
+          "sourceUrl": "https://www.papahawksports.com/cdn/shop/files/more_store_5_1500x.jpg?v\u003d1637625393",
+          "thumbnails": [
+            {
+              "height": 844,
+              "url": "https://a.mktgcdn.com/p-sandbox/YSpGJF4dpNE_gSgJzkvSqgDEndPWyfTdSpzkTLo9dns/1500x844.jpg",
+              "width": 1500
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/YSpGJF4dpNE_gSgJzkvSqgDEndPWyfTdSpzkTLo9dns/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "https://a.mktgcdn.com/p-sandbox/YSpGJF4dpNE_gSgJzkvSqgDEndPWyfTdSpzkTLo9dns/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/YSpGJF4dpNE_gSgJzkvSqgDEndPWyfTdSpzkTLo9dns/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/YSpGJF4dpNE_gSgJzkvSqgDEndPWyfTdSpzkTLo9dns/1500x844.jpg",
+          "width": 1500
+        }
+      },
+      {
+        "image": {
+          "height": 918,
+          "sourceUrl": "https://shoppetaluma.com/wp-content/uploads/2020/05/national-sports-ph.jpg",
+          "thumbnails": [
+            {
+              "height": 918,
+              "url": "https://a.mktgcdn.com/p-sandbox/NeGWWKPXqlmFvghkZ6R5774bxLFfX9OsT9g8sbCyISU/1500x918.jpg",
+              "width": 1500
+            },
+            {
+              "height": 379,
+              "url": "https://a.mktgcdn.com/p-sandbox/NeGWWKPXqlmFvghkZ6R5774bxLFfX9OsT9g8sbCyISU/619x379.jpg",
+              "width": 619
+            },
+            {
+              "height": 367,
+              "url": "https://a.mktgcdn.com/p-sandbox/NeGWWKPXqlmFvghkZ6R5774bxLFfX9OsT9g8sbCyISU/600x367.jpg",
+              "width": 600
+            },
+            {
+              "height": 120,
+              "url": "https://a.mktgcdn.com/p-sandbox/NeGWWKPXqlmFvghkZ6R5774bxLFfX9OsT9g8sbCyISU/196x120.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/NeGWWKPXqlmFvghkZ6R5774bxLFfX9OsT9g8sbCyISU/1500x918.jpg",
+          "width": 1500
+        }
+      },
+      {
+        "image": {
+          "height": 897,
+          "sourceUrl": "https://patch.com/img/cdn20/users/24407780/20210127/034932/styles/patch_image/public/bk-store___27154215076.jpg",
+          "thumbnails": [
+            {
+              "height": 897,
+              "url": "https://a.mktgcdn.com/p-sandbox/71ILoV4kiMTeuLW7V9muzTQdPA0xfzYh5WUAYnPsYh0/1196x897.jpg",
+              "width": 1196
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/71ILoV4kiMTeuLW7V9muzTQdPA0xfzYh5WUAYnPsYh0/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/71ILoV4kiMTeuLW7V9muzTQdPA0xfzYh5WUAYnPsYh0/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/71ILoV4kiMTeuLW7V9muzTQdPA0xfzYh5WUAYnPsYh0/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/71ILoV4kiMTeuLW7V9muzTQdPA0xfzYh5WUAYnPsYh0/1196x897.jpg",
+          "width": 1196
+        }
+      }
+    ],
+    "slug": "index.html",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

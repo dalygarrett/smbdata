@@ -1,0 +1,11 @@
+{
+  "$id": "keywords-computation",
+  "$schema": "https://schema.yext.com/config/km/field-computation/v1",
+  "field": "keywords",
+  "computationMethod": "generateKeywords",
+  "systemControlled": false,
+  "inputs": {
+    "numKeywords": 5,
+    "topic": "[[c_industry]]"
+  }
+}

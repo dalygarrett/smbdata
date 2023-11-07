@@ -1,0 +1,353 @@
+{
+  "$id": "Homemade",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "111 E 29th St",
+      "postalCode": "10016",
+      "region": "NY"
+    },
+    "addressHidden": false,
+    "c_service1": "Live Shows",
+    "c_service1Description": "Homemade offers an exceptional and exhilarating live music experience through its band performances and dynamic shows. With a focus on showcasing rock and indie music genres, Homemade delivers electrifying performances that captivate audiences and leave them craving for more. Their live shows are a celebration of raw talent, powerful vocals, and captivating instrumentals, creating an immersive atmosphere that transports listeners to another dimension. Whether it\u0027s the high-energy vibes of their rock anthems or the soul-stirring melodies of their indie ballads, Homemade\u0027s live shows guarantee an unforgettable, goosebump-inducing experience for both loyal fans and newcomers alike.",
+    "c_service2": "Live Music Experiences",
+    "c_service2Description": "Homemade offers an array of exhilarating live music experiences that showcase talented bands and outstanding performances. With a strong focus on rock and indie genres, Homemade creates an immersive environment for music enthusiasts to enjoy electrifying live shows. From intimate venues to larger stages, Homemade brings together diverse artists, ensuring an unforgettable night filled with raw energy, catchy tunes, and compelling stage presence. Whether you\u0027re a die-hard fan or looking to discover new music, Homemade delivers an unparalleled live music experience that will leave you dancing, singing, and craving for more.",
+    "c_service3": "Private Events",
+    "c_service3Description": "Private Events offered by Homemade are an experience tailored to satisfy even the most discerning music enthusiasts. With an impressive array of bands, live music shows, and a diverse mix of rock and indie genres, Homemade ensures that private events become unforgettable gatherings. From intimate solo performances to high-energy group acts, the team at Homemade is dedicated to creating a captivating atmosphere that reflects the unique tastes and preferences of each client. Whether it\u0027s a birthday celebration, corporate function, or a special occasion, Homemade\u0027s private events pair sensational live music with impeccable personalized service, resulting in an unparalleled experience for all attendees.",
+    "c_servicePhotos": [
+      {
+        "height": 1800,
+        "sourceUrl": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/380066880_820165473443504_8568200451698030231_n.jpg?_nc_cat\u003d103\u0026ccb\u003d1-7\u0026_nc_sid\u003d5f2048\u0026_nc_ohc\u003dp_NrDBV-PYgAX9ksz3q\u0026_nc_ht\u003dscontent-lga3-1.xx\u0026oh\u003d00_AfBI90Ou72rI9D64WpywaH__ZlFrxzf7hPQ3YBZ7vPfX-A\u0026oe\u003d6537547D",
+        "thumbnails": [
+          {
+            "height": 1800,
+            "url": "https://a.mktgcdn.com/p-sandbox/PAhMml3FeVU8z6-_TiANxtMIzr40N8Cu16s3zux7lSg/1440x1800.jpg",
+            "width": 1440
+          },
+          {
+            "height": 774,
+            "url": "https://a.mktgcdn.com/p-sandbox/PAhMml3FeVU8z6-_TiANxtMIzr40N8Cu16s3zux7lSg/619x774.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/PAhMml3FeVU8z6-_TiANxtMIzr40N8Cu16s3zux7lSg/360x450.jpg",
+            "width": 360
+          },
+          {
+            "height": 245,
+            "url": "https://a.mktgcdn.com/p-sandbox/PAhMml3FeVU8z6-_TiANxtMIzr40N8Cu16s3zux7lSg/196x245.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/PAhMml3FeVU8z6-_TiANxtMIzr40N8Cu16s3zux7lSg/1440x1800.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1800,
+        "sourceUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/380156996_820165476776837_4055369098173110923_n.jpg?_nc_cat\u003d105\u0026ccb\u003d1-7\u0026_nc_sid\u003d5f2048\u0026_nc_ohc\u003dpyD38Lh_rvsAX_c649i\u0026_nc_ht\u003dscontent-lga3-2.xx\u0026oh\u003d00_AfAKd6pZqyir3Cbib6O1xzwzPS8u2nq5lM_70ZErxdqO7g\u0026oe\u003d65370FFA",
+        "thumbnails": [
+          {
+            "height": 1800,
+            "url": "https://a.mktgcdn.com/p-sandbox/9KpXQJ3sQ8JzA2hrQrHjbTr25oVFae9myL8zJRGk0vc/1440x1800.jpg",
+            "width": 1440
+          },
+          {
+            "height": 774,
+            "url": "https://a.mktgcdn.com/p-sandbox/9KpXQJ3sQ8JzA2hrQrHjbTr25oVFae9myL8zJRGk0vc/619x774.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/9KpXQJ3sQ8JzA2hrQrHjbTr25oVFae9myL8zJRGk0vc/360x450.jpg",
+            "width": 360
+          },
+          {
+            "height": 245,
+            "url": "https://a.mktgcdn.com/p-sandbox/9KpXQJ3sQ8JzA2hrQrHjbTr25oVFae9myL8zJRGk0vc/196x245.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/9KpXQJ3sQ8JzA2hrQrHjbTr25oVFae9myL8zJRGk0vc/1440x1800.jpg",
+        "width": 1440
+      },
+      {
+        "height": 5184,
+        "thumbnails": [
+          {
+            "height": 5184,
+            "url": "https://a.mktgcdn.com/p-sandbox/I7GQ3rPlCv1m_fcWwxQ-OipFfO9Ezbhs8uHt9tj5G8U/3456x5184.jpg",
+            "width": 3456
+          },
+          {
+            "height": 1900,
+            "url": "https://a.mktgcdn.com/p-sandbox/I7GQ3rPlCv1m_fcWwxQ-OipFfO9Ezbhs8uHt9tj5G8U/1267x1900.jpg",
+            "width": 1267
+          },
+          {
+            "height": 929,
+            "url": "https://a.mktgcdn.com/p-sandbox/I7GQ3rPlCv1m_fcWwxQ-OipFfO9Ezbhs8uHt9tj5G8U/619x929.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/I7GQ3rPlCv1m_fcWwxQ-OipFfO9Ezbhs8uHt9tj5G8U/300x450.jpg",
+            "width": 300
+          },
+          {
+            "height": 294,
+            "url": "https://a.mktgcdn.com/p-sandbox/I7GQ3rPlCv1m_fcWwxQ-OipFfO9Ezbhs8uHt9tj5G8U/196x294.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/I7GQ3rPlCv1m_fcWwxQ-OipFfO9Ezbhs8uHt9tj5G8U/3456x5184.jpg",
+        "width": 3456
+      }
+    ],
+    "c_tagline": "Experience the electrifying sound of Homemade: New York\u0027s premier rock and indie band, delivering captivating performances that leave you wanting more.",
+    "categoryIds": [
+      "1924"
+    ],
+    "description": "Homemade is a live music band based in New York, NY. Specializing in rock and indie music, Homemade delivers electrifying performances and captivating shows for audiences to enjoy. With their unique sound and dynamic stage presence, they have established themselves as a must-see act in the local music scene. Whether it\u0027s an intimate venue or a larger concert hall, Homemade knows how to create an immersive experience that leaves crowds wanting more. If you\u0027re looking for high-energy live music that will get your feet tapping and your heart racing, Homemade is the band to see in New York City.",
+    "emails": [
+      "homemademgmt@gmail.com"
+    ],
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      }
+    },
+    "keywords": [
+      "Band",
+      "Live Music",
+      "Shows",
+      "Rock",
+      "Indie"
+    ],
+    "logo": {
+      "image": {
+        "height": 960,
+        "sourceUrl": "https://scontent-lga3-2.xx.fbcdn.net/v/t1.6435-9/162977030_132121772247881_8659081870227766728_n.jpg?_nc_cat\u003d101\u0026ccb\u003d1-7\u0026_nc_sid\u003dbe3454\u0026_nc_ohc\u003dQenyixSdBv8AX-HkVAO\u0026_nc_ht\u003dscontent-lga3-2.xx\u0026oh\u003d00_AfBr-vRDmdXKgd40JIhaJkAyyTQ5XB9d3cM2AejEvB0z8Q\u0026oe\u003d6558C9EE",
+        "thumbnails": [
+          {
+            "height": 960,
+            "url": "https://a.mktgcdn.com/p-sandbox/_oyVSg7UD9jQMb29blDCV-3BJJOegDLGHiOD2MZf0bo/960x960.jpg",
+            "width": 960
+          },
+          {
+            "height": 150,
+            "url": "https://a.mktgcdn.com/p-sandbox/_oyVSg7UD9jQMb29blDCV-3BJJOegDLGHiOD2MZf0bo/150x150.jpg",
+            "width": 150
+          },
+          {
+            "height": 94,
+            "url": "https://a.mktgcdn.com/p-sandbox/_oyVSg7UD9jQMb29blDCV-3BJJOegDLGHiOD2MZf0bo/94x94.jpg",
+            "width": 94
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/_oyVSg7UD9jQMb29blDCV-3BJJOegDLGHiOD2MZf0bo/960x960.jpg",
+        "width": 960
+      }
+    },
+    "mainPhone": "+12035598897",
+    "name": "Homemade",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 2824,
+          "thumbnails": [
+            {
+              "height": 2824,
+              "url": "https://a.mktgcdn.com/p-sandbox/qbArWL86q8RK37TZd-PLrTGK0YLp3KaKUtO4tyZyHio/5184x2824.jpg",
+              "width": 5184
+            },
+            {
+              "height": 1035,
+              "url": "https://a.mktgcdn.com/p-sandbox/qbArWL86q8RK37TZd-PLrTGK0YLp3KaKUtO4tyZyHio/1900x1035.jpg",
+              "width": 1900
+            },
+            {
+              "height": 337,
+              "url": "https://a.mktgcdn.com/p-sandbox/qbArWL86q8RK37TZd-PLrTGK0YLp3KaKUtO4tyZyHio/619x337.jpg",
+              "width": 619
+            },
+            {
+              "height": 327,
+              "url": "https://a.mktgcdn.com/p-sandbox/qbArWL86q8RK37TZd-PLrTGK0YLp3KaKUtO4tyZyHio/600x327.jpg",
+              "width": 600
+            },
+            {
+              "height": 107,
+              "url": "https://a.mktgcdn.com/p-sandbox/qbArWL86q8RK37TZd-PLrTGK0YLp3KaKUtO4tyZyHio/196x107.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/qbArWL86q8RK37TZd-PLrTGK0YLp3KaKUtO4tyZyHio/5184x2824.jpg",
+          "width": 5184
+        }
+      },
+      {
+        "image": {
+          "height": 3962,
+          "thumbnails": [
+            {
+              "height": 3962,
+              "url": "https://a.mktgcdn.com/p-sandbox/VQUb7vLs65x24oKt1lamtJwAWk6CsdJBdbe2tzm74Uk/5504x3962.jpg",
+              "width": 5504
+            },
+            {
+              "height": 1368,
+              "url": "https://a.mktgcdn.com/p-sandbox/VQUb7vLs65x24oKt1lamtJwAWk6CsdJBdbe2tzm74Uk/1900x1368.jpg",
+              "width": 1900
+            },
+            {
+              "height": 446,
+              "url": "https://a.mktgcdn.com/p-sandbox/VQUb7vLs65x24oKt1lamtJwAWk6CsdJBdbe2tzm74Uk/619x446.jpg",
+              "width": 619
+            },
+            {
+              "height": 432,
+              "url": "https://a.mktgcdn.com/p-sandbox/VQUb7vLs65x24oKt1lamtJwAWk6CsdJBdbe2tzm74Uk/600x432.jpg",
+              "width": 600
+            },
+            {
+              "height": 141,
+              "url": "https://a.mktgcdn.com/p-sandbox/VQUb7vLs65x24oKt1lamtJwAWk6CsdJBdbe2tzm74Uk/196x141.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/VQUb7vLs65x24oKt1lamtJwAWk6CsdJBdbe2tzm74Uk/5504x3962.jpg",
+          "width": 5504
+        }
+      },
+      {
+        "image": {
+          "height": 3456,
+          "thumbnails": [
+            {
+              "height": 3456,
+              "url": "https://a.mktgcdn.com/p-sandbox/fJ3LouLh0WAxcaEpbUHTQ7oYZvV9wTTYFDtc8njZugA/5184x3456.jpg",
+              "width": 5184
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/fJ3LouLh0WAxcaEpbUHTQ7oYZvV9wTTYFDtc8njZugA/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/fJ3LouLh0WAxcaEpbUHTQ7oYZvV9wTTYFDtc8njZugA/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/fJ3LouLh0WAxcaEpbUHTQ7oYZvV9wTTYFDtc8njZugA/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/fJ3LouLh0WAxcaEpbUHTQ7oYZvV9wTTYFDtc8njZugA/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/fJ3LouLh0WAxcaEpbUHTQ7oYZvV9wTTYFDtc8njZugA/5184x3456.jpg",
+          "width": 5184
+        }
+      },
+      {
+        "image": {
+          "height": 1536,
+          "thumbnails": [
+            {
+              "height": 1536,
+              "url": "https://a.mktgcdn.com/p-sandbox/dUCZsqZi0RE1bs6aD5Ip7m1BjnYQdNZowDSUr_72E4Y/2049x1536.jpg",
+              "width": 2049
+            },
+            {
+              "height": 1424,
+              "url": "https://a.mktgcdn.com/p-sandbox/dUCZsqZi0RE1bs6aD5Ip7m1BjnYQdNZowDSUr_72E4Y/1900x1424.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "https://a.mktgcdn.com/p-sandbox/dUCZsqZi0RE1bs6aD5Ip7m1BjnYQdNZowDSUr_72E4Y/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "https://a.mktgcdn.com/p-sandbox/dUCZsqZi0RE1bs6aD5Ip7m1BjnYQdNZowDSUr_72E4Y/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "https://a.mktgcdn.com/p-sandbox/dUCZsqZi0RE1bs6aD5Ip7m1BjnYQdNZowDSUr_72E4Y/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/dUCZsqZi0RE1bs6aD5Ip7m1BjnYQdNZowDSUr_72E4Y/2049x1536.jpg",
+          "width": 2049
+        }
+      }
+    ],
+    "slug": "index.html",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

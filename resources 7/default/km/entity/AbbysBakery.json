@@ -1,0 +1,354 @@
+{
+  "$id": "AbbysBakery",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "61 9th Ave",
+      "postalCode": "10011",
+      "region": "NY"
+    },
+    "addressHidden": false,
+    "c_industry": "Bakery",
+    "c_service1": "Custom cake designing for special occasions.",
+    "c_service1Description": "Abby\u0027s Bakery specializes in custom cake designing for special occasions, offering a delightful range of cakes, cupcakes, sweets, baked goods, and cookies. With a meticulous attention to detail, our talented team of bakers creates one-of-a-kind cakes that are both visually stunning and irresistibly delicious. Whether it\u0027s a birthday, wedding, anniversary, or any other special event, we work closely with our customers to bring their vision to life. From elegant tiered cakes adorned with intricate fondant decorations to whimsical themed cakes bursting with vibrant colors and flavors, we strive to exceed expectations and make every celebration extra memorable. At Abby\u0027s Bakery, we understand that a beautifully designed cake is the centerpiece of any occasion, and we take pride in crafting edible works of art that leave a lasting impression.",
+    "c_service2": "Baking classes for aspiring chefs.",
+    "c_service2Description": "Abby\u0027s Bakery offers a range of baking classes for aspiring chefs who want to master the art of creating delicious and delectable treats. From learning the secrets to making perfectly moist cupcakes and mouthwatering cakes to mastering the art of crafting beautiful and irresistible baked goods, these classes provide hands-on experience and expert guidance. Students will also be introduced to the world of sweets, discovering techniques for creating irresistible cookies and other delightful confections. With Abby\u0027s Bakery\u0027s baking classes, aspiring chefs can unlock their culinary potential and gain the skills needed to create mouthwatering creations that will leave everyone craving for more.",
+    "c_service3": "Custom cake and cupcake decorations.",
+    "c_service3Description": "Abby\u0027s Bakery specializes in creating custom cake and cupcake decorations that are sure to delight any sweet tooth. With a passion for all things baked goods, Abby\u0027s Bakery offers a wide range of unique and creative designs for cakes and cupcakes. Whether it\u0027s for a birthday, wedding, or any other special occasion, their talented team of bakers and decorators can bring your imagination to life. From intricate buttercream piping to fondant sculptures and edible printed images, every detail is carefully crafted to make your cake or cupcakes truly extraordinary. With a focus on quality and creativity, Abby\u0027s Bakery ensures that each bite is not only visually stunning but also deliciously sweet.",
+    "c_servicePhotos": [
+      {
+        "height": 408,
+        "sourceUrl": "https://media.istockphoto.com/id/497959594/photo/fresh-cakes.jpg?s\u003d612x612\u0026w\u003d0\u0026k\u003d20\u0026c\u003dT1vp7QPbg6BY3GE-qwg-i_SqVpstyHBMIwnGakdTTek\u003d",
+        "thumbnails": [
+          {
+            "height": 408,
+            "url": "https://a.mktgcdn.com/p-sandbox/Vza-1rNZUz0FpLifb0JW1n39VabyZgHPw7VqG68jgf0/612x408.jpg",
+            "width": 612
+          },
+          {
+            "height": 400,
+            "url": "https://a.mktgcdn.com/p-sandbox/Vza-1rNZUz0FpLifb0JW1n39VabyZgHPw7VqG68jgf0/600x400.jpg",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p-sandbox/Vza-1rNZUz0FpLifb0JW1n39VabyZgHPw7VqG68jgf0/196x131.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/Vza-1rNZUz0FpLifb0JW1n39VabyZgHPw7VqG68jgf0/612x408.jpg",
+        "width": 612
+      },
+      {
+        "height": 640,
+        "sourceUrl": "https://cdn0.weddingwire.com/vendor/948470/3_2/960/jpg/dsc09536_51_1074849-1561824375.jpeg",
+        "thumbnails": [
+          {
+            "height": 640,
+            "url": "https://a.mktgcdn.com/p-sandbox/z9MMX8E5H9aHq4dIQlkuvQ5Aiv0gc5ucsjRKsDmQy4s/960x640.jpg",
+            "width": 960
+          },
+          {
+            "height": 413,
+            "url": "https://a.mktgcdn.com/p-sandbox/z9MMX8E5H9aHq4dIQlkuvQ5Aiv0gc5ucsjRKsDmQy4s/619x413.jpg",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "https://a.mktgcdn.com/p-sandbox/z9MMX8E5H9aHq4dIQlkuvQ5Aiv0gc5ucsjRKsDmQy4s/600x400.jpg",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p-sandbox/z9MMX8E5H9aHq4dIQlkuvQ5Aiv0gc5ucsjRKsDmQy4s/196x131.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/z9MMX8E5H9aHq4dIQlkuvQ5Aiv0gc5ucsjRKsDmQy4s/960x640.jpg",
+        "width": 960
+      },
+      {
+        "height": 667,
+        "sourceUrl": "https://www.localguidesconnect.com/t5/image/serverpage/image-id/273265i320268D7F145817C/image-size/large?v\u003dv2\u0026px\u003d999",
+        "thumbnails": [
+          {
+            "height": 667,
+            "url": "https://a.mktgcdn.com/p-sandbox/fsDMvj_cXzohbtEcE13RlI1ggYSam46g6NrgOAPED7E/999x667.jpg",
+            "width": 999
+          },
+          {
+            "height": 413,
+            "url": "https://a.mktgcdn.com/p-sandbox/fsDMvj_cXzohbtEcE13RlI1ggYSam46g6NrgOAPED7E/619x413.jpg",
+            "width": 619
+          },
+          {
+            "height": 401,
+            "url": "https://a.mktgcdn.com/p-sandbox/fsDMvj_cXzohbtEcE13RlI1ggYSam46g6NrgOAPED7E/600x401.jpg",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p-sandbox/fsDMvj_cXzohbtEcE13RlI1ggYSam46g6NrgOAPED7E/196x131.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/fsDMvj_cXzohbtEcE13RlI1ggYSam46g6NrgOAPED7E/999x667.jpg",
+        "width": 999
+      }
+    ],
+    "c_tagline": "Experience the joy of freshly baked delights at Abby\u0027s Bakery - where precision, passion, and scrumptious treats come together in every bite.",
+    "c_toggleAbout": true,
+    "c_toggleGallery": true,
+    "c_toggleReviews": true,
+    "c_toggleServices": true,
+    "categoryIds": [
+      "1161"
+    ],
+    "description": "Abby\u0027s Bakery is a charming bakery located in the heart of New York. We specialize in a wide variety of mouthwatering baked goods, including delectable cupcakes, irresistible cakes, and delicious cookies. At Abby\u0027s Bakery, we are passionate about creating the perfect treats for any occasion. Our talented bakers use high-quality ingredients and intricate techniques to craft desserts that not only taste amazing but also look beautiful. Whether you\u0027re planning a birthday party or simply craving something sweet, our bakery has something to satisfy every dessert lover\u0027s palate. Come visit us at Abby\u0027s Bakery and indulge in the sugary delights that have made us a favorite among New Yorkers.",
+    "emails": [
+      "avonderweidt@yext.com"
+    ],
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "08:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "isClosed": true
+      }
+    },
+    "keywords": [
+      "Bakery",
+      "Cupcakes",
+      "Sweets",
+      "Cake",
+      "Baked Goods",
+      "Cookies"
+    ],
+    "logo": {
+      "image": {
+        "height": 178,
+        "sourceUrl": "https://www.shutterstock.com/image-vector/cupcake-logo-design-vector-illustration-260nw-1196844703.jpg",
+        "thumbnails": [
+          {
+            "height": 178,
+            "url": "https://a.mktgcdn.com/p-sandbox/rFju_MKBg4eNJ6Fx3WEhNAQOP7T9nBmkSYg_crt0bfo/178x178.jpg",
+            "width": 178
+          },
+          {
+            "height": 150,
+            "url": "https://a.mktgcdn.com/p-sandbox/rFju_MKBg4eNJ6Fx3WEhNAQOP7T9nBmkSYg_crt0bfo/150x150.jpg",
+            "width": 150
+          },
+          {
+            "height": 94,
+            "url": "https://a.mktgcdn.com/p-sandbox/rFju_MKBg4eNJ6Fx3WEhNAQOP7T9nBmkSYg_crt0bfo/94x94.jpg",
+            "width": 94
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/rFju_MKBg4eNJ6Fx3WEhNAQOP7T9nBmkSYg_crt0bfo/178x178.jpg",
+        "width": 178
+      }
+    },
+    "mainPhone": "+12129943900",
+    "name": "Abby\u0027s Bakery",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1656,
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5c00539a50a54f405f566e16/1561758915122-TV28YBI6HX9XV3E6LN3K/DSC_0154.jpg",
+          "thumbnails": [
+            {
+              "height": 1656,
+              "url": "https://a.mktgcdn.com/p-sandbox/y58FqqiqMpDzeUfd6Bh-wvlY3Zvv5m_IL3w03DOuDL8/2500x1656.jpg",
+              "width": 2500
+            },
+            {
+              "height": 1259,
+              "url": "https://a.mktgcdn.com/p-sandbox/y58FqqiqMpDzeUfd6Bh-wvlY3Zvv5m_IL3w03DOuDL8/1900x1259.jpg",
+              "width": 1900
+            },
+            {
+              "height": 410,
+              "url": "https://a.mktgcdn.com/p-sandbox/y58FqqiqMpDzeUfd6Bh-wvlY3Zvv5m_IL3w03DOuDL8/619x410.jpg",
+              "width": 619
+            },
+            {
+              "height": 397,
+              "url": "https://a.mktgcdn.com/p-sandbox/y58FqqiqMpDzeUfd6Bh-wvlY3Zvv5m_IL3w03DOuDL8/600x397.jpg",
+              "width": 600
+            },
+            {
+              "height": 130,
+              "url": "https://a.mktgcdn.com/p-sandbox/y58FqqiqMpDzeUfd6Bh-wvlY3Zvv5m_IL3w03DOuDL8/196x130.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/y58FqqiqMpDzeUfd6Bh-wvlY3Zvv5m_IL3w03DOuDL8/2500x1656.jpg",
+          "width": 2500
+        }
+      },
+      {
+        "image": {
+          "height": 800,
+          "sourceUrl": "https://i0.wp.com/www.dandelionchandelier.com/wp-content/uploads/2023/07/beautiful-delicious-pastries-with-raspberry-on-a-s-2021-08-26-18-48-27-utc-1-scaled-e1689341279225.jpg?fit\u003d1200%2C800\u0026quality\u003d89\u0026ssl\u003d1",
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "https://a.mktgcdn.com/p-sandbox/OvBupxRYeB0V1o1_H4n-qWb-EMtuvHRnwSAMNPp6dvs/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/OvBupxRYeB0V1o1_H4n-qWb-EMtuvHRnwSAMNPp6dvs/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/OvBupxRYeB0V1o1_H4n-qWb-EMtuvHRnwSAMNPp6dvs/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/OvBupxRYeB0V1o1_H4n-qWb-EMtuvHRnwSAMNPp6dvs/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/OvBupxRYeB0V1o1_H4n-qWb-EMtuvHRnwSAMNPp6dvs/1200x800.jpg",
+          "width": 1200
+        }
+      },
+      {
+        "image": {
+          "height": 924,
+          "sourceUrl": "https://www.homeperch.com/wp-content/uploads/2021/08/french-pastries.jpg",
+          "thumbnails": [
+            {
+              "height": 924,
+              "url": "https://a.mktgcdn.com/p-sandbox/D-ubgELi7MCeyCH1viCAWrLNRJoIseA9o3ZTqu5a2KI/1643x924.jpg",
+              "width": 1643
+            },
+            {
+              "height": 348,
+              "url": "https://a.mktgcdn.com/p-sandbox/D-ubgELi7MCeyCH1viCAWrLNRJoIseA9o3ZTqu5a2KI/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 337,
+              "url": "https://a.mktgcdn.com/p-sandbox/D-ubgELi7MCeyCH1viCAWrLNRJoIseA9o3ZTqu5a2KI/600x337.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "https://a.mktgcdn.com/p-sandbox/D-ubgELi7MCeyCH1viCAWrLNRJoIseA9o3ZTqu5a2KI/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/D-ubgELi7MCeyCH1viCAWrLNRJoIseA9o3ZTqu5a2KI/1643x924.jpg",
+          "width": 1643
+        }
+      },
+      {
+        "image": {
+          "height": 596,
+          "sourceUrl": "https://frenchalacarteblog.files.wordpress.com/2012/01/chaumont-bakery.png",
+          "thumbnails": [
+            {
+              "height": 596,
+              "url": "https://a.mktgcdn.com/p-sandbox/1DdONpGeyDhR9jD1EBOPhEZi7FZ4fSJPFErTi_NuTlg/1177x596.png",
+              "width": 1177
+            },
+            {
+              "height": 313,
+              "url": "https://a.mktgcdn.com/p-sandbox/1DdONpGeyDhR9jD1EBOPhEZi7FZ4fSJPFErTi_NuTlg/619x313.png",
+              "width": 619
+            },
+            {
+              "height": 304,
+              "url": "https://a.mktgcdn.com/p-sandbox/1DdONpGeyDhR9jD1EBOPhEZi7FZ4fSJPFErTi_NuTlg/600x304.png",
+              "width": 600
+            },
+            {
+              "height": 99,
+              "url": "https://a.mktgcdn.com/p-sandbox/1DdONpGeyDhR9jD1EBOPhEZi7FZ4fSJPFErTi_NuTlg/196x99.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/1DdONpGeyDhR9jD1EBOPhEZi7FZ4fSJPFErTi_NuTlg/1177x596.png",
+          "width": 1177
+        }
+      },
+      {
+        "image": {
+          "height": 400,
+          "sourceUrl": "https://st3.depositphotos.com/11523154/17371/i/450/depositphotos_173714322-stock-photo-french-pastries-chocolate-cakes-macaron.jpg",
+          "thumbnails": [
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/uQh_HjT_rpSjZ3MWCB0mZClR1De7af_B49c7pR2-3YY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/uQh_HjT_rpSjZ3MWCB0mZClR1De7af_B49c7pR2-3YY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/uQh_HjT_rpSjZ3MWCB0mZClR1De7af_B49c7pR2-3YY/600x400.jpg",
+          "width": 600
+        }
+      }
+    ],
+    "slug": "index.html",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

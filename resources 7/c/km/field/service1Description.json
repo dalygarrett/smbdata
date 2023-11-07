@@ -1,0 +1,14 @@
+{
+  "$id": "c_service1Description",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Service 1 Description",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "location.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Location-default",
+  "entityType": "location",
+  "fields": [
+    "c_industry",
+    "c_service1",
+    "c_service1Description",
+    "c_service2",
+    "c_service2Description",
+    "c_service3",
+    "c_service3Description",
+    "c_servicePhotos",
+    "c_tagline",
+    "c_toggleAbout",
+    "c_toggleGallery",
+    "c_toggleReviews",
+    "c_toggleServices"
+  ],
+  "required": []
+}

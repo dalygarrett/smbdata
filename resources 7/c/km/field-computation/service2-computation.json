@@ -1,0 +1,10 @@
+{
+  "$id": "c_service2-computation",
+  "$schema": "https://schema.yext.com/config/km/field-computation/v1",
+  "field": "c_service2",
+  "computationMethod": "customCompletion",
+  "systemControlled": false,
+  "inputs": {
+    "prompt": "Come up with one service this business might offer based on  [[description]] . Do not use more than 6 words. Make it different from  [[c_service1]] and  [[c_service3]]"
+  }
+}

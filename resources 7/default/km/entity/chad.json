@@ -1,0 +1,343 @@
+{
+  "$id": "chad",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "61 9th Ave",
+      "postalCode": "10011",
+      "region": "NY"
+    },
+    "addressHidden": false,
+    "c_industry": "Surf Shop",
+    "c_service1": "Surfboard rentals and lessons.",
+    "c_service1Description": "Chad\u0027s Surf Shop is a premier surfboard shop that offers top-of-the-line surf gear, beach accessories, and surfing equipment. With an extensive range of high-quality surfboards available for rental, customers can enjoy the ultimate surfing experience. Whether you are a beginner or an experienced surfer looking to refine your skills, Chad\u0027s Surf Shop also offers professional surf lessons provided by expert instructors. From learning the basics to mastering advanced techniques, these lessons are tailored to suit individual needs and abilities. With a commitment to customer satisfaction and a passion for the sport, Chad\u0027s Surf Shop provides everything you need to catch the perfect wave and make unforgettable memories in the water.",
+    "c_service2": "Surfboard repair and maintenance services.",
+    "c_service2Description": "Chad\u0027s Surf Shop is a premier surfboard shop offering a wide range of surf gear and beach accessories, including top-of-the-line surfing equipment. In addition, they provide exceptional surfboard repair and maintenance services to ensure that customers\u0027 boards are always in optimal condition. With a team of experienced technicians, Chad\u0027s Surf Shop offers professional repairs for all types of surfboards, from minor dings to major damage. Their meticulous attention to detail and use of high-quality materials ensure that each repair is completed to the highest standards. Whether it\u0027s fixing cracks, replacing fins, or restoring the board\u0027s performance, customers can trust Chad\u0027s Surf Shop to handle their surfboard repair and maintenance needs with expertise and care.",
+    "c_service3": "Surfboard Rental and Repair Service.",
+    "c_service3Description": "Chad\u0027s Surf Shop is a premier surfboard rental and repair service that is committed to providing exceptional customer experiences. As a popular surf shop known for its extensive range of surf gear, Chad\u0027s has built a strong reputation as a reliable surfboard shop offering top-notch beach accessories and surfing equipment. With their expertise in all things surf-related, they offer a convenient and hassle-free surfboard rental service, allowing surfers of all levels to enjoy the waves without the commitment of owning their own board. Additionally, their skilled team of technicians is available for prompt and professional surfboard repairs, ensuring that customers\u0027 beloved boards are always in peak condition. With an emphasis on quality and customer satisfaction, Chad\u0027s Surf Shop offers a comprehensive range of services to cater to the needs of all surf enthusiasts.",
+    "c_servicePhotos": [
+      {
+        "height": 700,
+        "sourceUrl": "https://www.santamonica.com/wp-content/uploads/2022/06/santa-monica-surfing.jpg",
+        "thumbnails": [
+          {
+            "height": 700,
+            "url": "https://a.mktgcdn.com/p-sandbox/tLblKDmzqEvuS4y7S4vtLcEBY5bqDTaWQDxe6k_Mals/937x700.jpg",
+            "width": 937
+          },
+          {
+            "height": 462,
+            "url": "https://a.mktgcdn.com/p-sandbox/tLblKDmzqEvuS4y7S4vtLcEBY5bqDTaWQDxe6k_Mals/619x462.jpg",
+            "width": 619
+          },
+          {
+            "height": 448,
+            "url": "https://a.mktgcdn.com/p-sandbox/tLblKDmzqEvuS4y7S4vtLcEBY5bqDTaWQDxe6k_Mals/600x448.jpg",
+            "width": 600
+          },
+          {
+            "height": 146,
+            "url": "https://a.mktgcdn.com/p-sandbox/tLblKDmzqEvuS4y7S4vtLcEBY5bqDTaWQDxe6k_Mals/196x146.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/tLblKDmzqEvuS4y7S4vtLcEBY5bqDTaWQDxe6k_Mals/937x700.jpg",
+        "width": 937
+      },
+      {
+        "height": 1500,
+        "sourceUrl": "https://southswellsurfshop.com/cdn/shop/files/social-ssss.jpg?v\u003d1668011707",
+        "thumbnails": [
+          {
+            "height": 1500,
+            "url": "https://a.mktgcdn.com/p-sandbox/PEIhXEdT7dvJgmHncE2-c0-BFzHk5KEz1BlHEcEAkek/2000x1500.jpg",
+            "width": 2000
+          },
+          {
+            "height": 1425,
+            "url": "https://a.mktgcdn.com/p-sandbox/PEIhXEdT7dvJgmHncE2-c0-BFzHk5KEz1BlHEcEAkek/1900x1425.jpg",
+            "width": 1900
+          },
+          {
+            "height": 464,
+            "url": "https://a.mktgcdn.com/p-sandbox/PEIhXEdT7dvJgmHncE2-c0-BFzHk5KEz1BlHEcEAkek/619x464.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/PEIhXEdT7dvJgmHncE2-c0-BFzHk5KEz1BlHEcEAkek/600x450.jpg",
+            "width": 600
+          },
+          {
+            "height": 147,
+            "url": "https://a.mktgcdn.com/p-sandbox/PEIhXEdT7dvJgmHncE2-c0-BFzHk5KEz1BlHEcEAkek/196x147.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/PEIhXEdT7dvJgmHncE2-c0-BFzHk5KEz1BlHEcEAkek/2000x1500.jpg",
+        "width": 2000
+      },
+      {
+        "height": 500,
+        "sourceUrl": "https://www.surfertoday.com/images/stories/high-performance-wave.jpg",
+        "thumbnails": [
+          {
+            "height": 500,
+            "url": "https://a.mktgcdn.com/p-sandbox/-r3wnIr1V6M5de1axoUb5zpZ6iZjyrjfW_cWRsOQNmA/750x500.jpg",
+            "width": 750
+          },
+          {
+            "height": 413,
+            "url": "https://a.mktgcdn.com/p-sandbox/-r3wnIr1V6M5de1axoUb5zpZ6iZjyrjfW_cWRsOQNmA/619x413.jpg",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "https://a.mktgcdn.com/p-sandbox/-r3wnIr1V6M5de1axoUb5zpZ6iZjyrjfW_cWRsOQNmA/600x400.jpg",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p-sandbox/-r3wnIr1V6M5de1axoUb5zpZ6iZjyrjfW_cWRsOQNmA/196x131.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/-r3wnIr1V6M5de1axoUb5zpZ6iZjyrjfW_cWRsOQNmA/750x500.jpg",
+        "width": 750
+      }
+    ],
+    "c_tagline": "Dive into the world of surfing at Chad\u0027s Surf Shop in New York, your one-stop destination for top-quality surf gear and expert assistance.",
+    "c_toggleAbout": true,
+    "c_toggleGallery": true,
+    "c_toggleReviews": true,
+    "c_toggleServices": true,
+    "categoryIds": [
+      "1986"
+    ],
+    "description": "Chad\u0027s Surf Shop, located in New York, NY, is your one-stop destination for all things surf-related. Whether you\u0027re an experienced surfer or just starting out, our surf shop offers a wide range of top-quality surf gear and equipment. From surfboards to beach accessories, we have everything you need to hit the waves with confidence. Our knowledgeable staff is always ready to assist you in finding the perfect gear that suits your needs and skill level. Come visit Chad\u0027s Surf Shop in New York and dive into the world of surfing with our extensive selection of products designed to enhance your beach experience.",
+    "emails": [
+      "chad@yext.com"
+    ],
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "23:59",
+            "start": "00:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      }
+    },
+    "keywords": [
+      "surf shop",
+      "surf gear",
+      "surfboard shop",
+      "beach accessories",
+      "surfing equipment"
+    ],
+    "logo": {
+      "image": {
+        "height": 650,
+        "sourceUrl": "https://www.pbsurfshop.com/wp-content/uploads/2020/03/Surf-Shop-Male-Logo-Larg-original-small.png",
+        "thumbnails": [
+          {
+            "height": 650,
+            "url": "https://a.mktgcdn.com/p-sandbox/jhoo7f5H-kd2B-Q7XHUDZ-7sZHNArIBMWEHvUR0gJXo/650x650.png",
+            "width": 650
+          },
+          {
+            "height": 150,
+            "url": "https://a.mktgcdn.com/p-sandbox/jhoo7f5H-kd2B-Q7XHUDZ-7sZHNArIBMWEHvUR0gJXo/150x150.png",
+            "width": 150
+          },
+          {
+            "height": 94,
+            "url": "https://a.mktgcdn.com/p-sandbox/jhoo7f5H-kd2B-Q7XHUDZ-7sZHNArIBMWEHvUR0gJXo/94x94.png",
+            "width": 94
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/jhoo7f5H-kd2B-Q7XHUDZ-7sZHNArIBMWEHvUR0gJXo/650x650.png",
+        "width": 650
+      }
+    },
+    "mainPhone": "+12129943900",
+    "name": "Chad\u0027s Surf Shop",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1667,
+          "sourceUrl": "https://www.iconsofsurf.com/cdn/shop/files/IconsShop-6.jpg?v\u003d1696927555\u0026width\u003d3840",
+          "thumbnails": [
+            {
+              "height": 1667,
+              "url": "https://a.mktgcdn.com/p-sandbox/CdI3FcWog-Hj50czer-hGbUbEX-2Jajbv-NJSIfUIGQ/2500x1667.jpg",
+              "width": 2500
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/CdI3FcWog-Hj50czer-hGbUbEX-2Jajbv-NJSIfUIGQ/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/CdI3FcWog-Hj50czer-hGbUbEX-2Jajbv-NJSIfUIGQ/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/CdI3FcWog-Hj50czer-hGbUbEX-2Jajbv-NJSIfUIGQ/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/CdI3FcWog-Hj50czer-hGbUbEX-2Jajbv-NJSIfUIGQ/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/CdI3FcWog-Hj50czer-hGbUbEX-2Jajbv-NJSIfUIGQ/2500x1667.jpg",
+          "width": 2500
+        }
+      },
+      {
+        "image": {
+          "height": 688,
+          "sourceUrl": "https://www.privatetourshawaii.com/uploads/2/4/1/4/24149144/header-facebook-oahu-oahu1116_orig.jpg",
+          "thumbnails": [
+            {
+              "height": 688,
+              "url": "https://a.mktgcdn.com/p-sandbox/8OxELFvTwQ7slucVopG53SByXWaTxjFZ-RPoW-1u_YA/1100x688.jpg",
+              "width": 1100
+            },
+            {
+              "height": 387,
+              "url": "https://a.mktgcdn.com/p-sandbox/8OxELFvTwQ7slucVopG53SByXWaTxjFZ-RPoW-1u_YA/619x387.jpg",
+              "width": 619
+            },
+            {
+              "height": 375,
+              "url": "https://a.mktgcdn.com/p-sandbox/8OxELFvTwQ7slucVopG53SByXWaTxjFZ-RPoW-1u_YA/600x375.jpg",
+              "width": 600
+            },
+            {
+              "height": 123,
+              "url": "https://a.mktgcdn.com/p-sandbox/8OxELFvTwQ7slucVopG53SByXWaTxjFZ-RPoW-1u_YA/196x123.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/8OxELFvTwQ7slucVopG53SByXWaTxjFZ-RPoW-1u_YA/1100x688.jpg",
+          "width": 1100
+        }
+      },
+      {
+        "image": {
+          "height": 856,
+          "sourceUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_856,q_75,w_1200/v1/clients/surfcityusa/HSS_2_693784e0-8dd1-4e85-8121-e3b1f5345fd7.jpg",
+          "thumbnails": [
+            {
+              "height": 856,
+              "url": "https://a.mktgcdn.com/p-sandbox/GUSQppjdBiCuPcrt7-EvHjRm7t5bxRpA4ifDIc0D97E/1200x856.jpg",
+              "width": 1200
+            },
+            {
+              "height": 442,
+              "url": "https://a.mktgcdn.com/p-sandbox/GUSQppjdBiCuPcrt7-EvHjRm7t5bxRpA4ifDIc0D97E/619x442.jpg",
+              "width": 619
+            },
+            {
+              "height": 428,
+              "url": "https://a.mktgcdn.com/p-sandbox/GUSQppjdBiCuPcrt7-EvHjRm7t5bxRpA4ifDIc0D97E/600x428.jpg",
+              "width": 600
+            },
+            {
+              "height": 140,
+              "url": "https://a.mktgcdn.com/p-sandbox/GUSQppjdBiCuPcrt7-EvHjRm7t5bxRpA4ifDIc0D97E/196x140.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/GUSQppjdBiCuPcrt7-EvHjRm7t5bxRpA4ifDIc0D97E/1200x856.jpg",
+          "width": 1200
+        }
+      },
+      {
+        "image": {
+          "height": 683,
+          "sourceUrl": "https://www.aframesurf.com/wp-content/uploads/2023/05/A-Frame_Surf-19-1024x683.jpg",
+          "thumbnails": [
+            {
+              "height": 683,
+              "url": "https://a.mktgcdn.com/p-sandbox/9CRq3iT0v6dpcxV6MMdF1HfFIR6aDQCKq_prx-xaNUw/1024x683.jpg",
+              "width": 1024
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/9CRq3iT0v6dpcxV6MMdF1HfFIR6aDQCKq_prx-xaNUw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/9CRq3iT0v6dpcxV6MMdF1HfFIR6aDQCKq_prx-xaNUw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/9CRq3iT0v6dpcxV6MMdF1HfFIR6aDQCKq_prx-xaNUw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/9CRq3iT0v6dpcxV6MMdF1HfFIR6aDQCKq_prx-xaNUw/1024x683.jpg",
+          "width": 1024
+        }
+      }
+    ],
+    "slug": "index.html",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

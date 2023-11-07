@@ -1,0 +1,10 @@
+{
+  "$id": "c_tagline-computation",
+  "$schema": "https://schema.yext.com/config/km/field-computation/v1",
+  "field": "c_tagline",
+  "computationMethod": "customCompletion",
+  "systemControlled": false,
+  "inputs": {
+    "prompt": "Create a sentence long tagline based on  [[description]] . Do not use quotes."
+  }
+}
